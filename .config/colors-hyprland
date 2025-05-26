@@ -1,0 +1,9 @@
+    $wallpaper = /home/rado/wallpaper.jpeg
+
+    $color0 = 0xff090909
+    $color1 = 0xff202020
+    $color2 = 0xff252525
+    $color3 = 0xff535353
+    $color4 = 0xff9c9c9c
+    $color5 = 0xffB7B7B7
+    $color6 = 0xffE0E0E0
