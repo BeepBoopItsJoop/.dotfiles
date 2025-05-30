@@ -565,5 +565,6 @@
   "bar.customModules.ram.label": true,
   "bar.customModules.cpu.label": true,
   "bar.customModules.storage.labelType": "percentage",
-  "bar.customModules.storage.round": true
+  "bar.customModules.storage.round": true,
+  "notifications.autoDismiss": false
 }
