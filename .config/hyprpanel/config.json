@@ -564,7 +564,10 @@
   "theme.bar.buttons.modules.ram.enableBorder": false,
   "bar.customModules.ram.label": true,
   "bar.customModules.cpu.label": true,
-  "bar.customModules.storage.labelType": "percentage",
+  "bar.customModules.storage.labelType": "used/total",
   "bar.customModules.storage.round": true,
-  "notifications.autoDismiss": false
+  "notifications.autoDismiss": false,
+  "notifications.ignore": [
+    "OpenRazer"
+  ]
 }
